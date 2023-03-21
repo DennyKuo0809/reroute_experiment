@@ -1,0 +1,7 @@
+'host0.app[7]' : 'type2-flow1',
+'host1.app[0]' : 'type2-flow2',
+'host2.app[0]' : 'type1-flow0',
+'host2.app[1]' : 'type1-flow1',
+'host2.app[2]' : 'type2-flow0',
+'host2.app[6]' : 'type2-flow3',
+'host4.app[1]' : 'type2-flow4',
